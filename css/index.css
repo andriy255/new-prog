@@ -27,3 +27,25 @@ img{
  width: 150px;   
  border:2px solid black;
 }
+
+a{
+text-decoration:none;
+color:blue;
+}
+
+a:hover{
+color:red;
+font-family: verdana;
+}
+
+button{
+width:100px;
+height:40px;
+border:2px solid black;
+border-radius:4px;
+}
+
+button:hover{
+background:lightblue;
+border-radius:1px;
+}
